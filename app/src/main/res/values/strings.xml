@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">myFigmaDesign</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvWelcome_back">Welcome back</string>
+    <string name="etEmail">Enter your email</string>
+    <string name="etPassword">Enter password</string>
+    <string name="etName">Enter your name</string>
+    <string name="etConfirmPass">Confirm password</string>
+    <string name="btnRegister">Register</string>
+    <string name="tvAlready">Already heave a account?</string>
+    <string name="tvSignin">Sig in</string>
+    <string name="tvWelcomeOnboard">Welcome to Onboard</string>
+    <string name="tvLets_help">Let is help you meet up your tasks</string>
+    <string name="tvFigmaTest">Figma Test App Design</string>
+    <string name="tvLorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie aliquet tempus etiam ipsum lacus non.</string>
+    <string name="tvForgotPass">Forgot Password?</string>
+    <string name="btnConfirm">Confirm</string>
+    <string name="btnGetStarted">Get Started</string>
+    <string name="tvWelcome_Inspector">Welcome Inspector Max</string>
+    <string name="tvAlreadyheave">Already heave a account</string>
+
+
+
+
+
+
+
+</resources>
